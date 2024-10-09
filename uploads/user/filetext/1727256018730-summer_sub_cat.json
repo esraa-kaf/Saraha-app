@@ -1,0 +1,39 @@
+# النباتات الصيفيه : 
+
+{
+    "id":2,
+    "cat_id":1,
+    "name":"الذرة",
+    "about":"how to plante",
+    "benifits":"تحسين صحه القلب والشرايين-الحماية من فقر الدم-تعزيز صحه الجهاز الهضمى-إمداد الجسم بالطاقة-لصحة البشرة والعيون-تعزيز المناعة والوقايه من السرطانات",
+    "vits":"الأحماض الدهنية-حمض الفوليك-Vitamins A-مضادات اكسدة-الفسفور-الماغنيسيوم-النحاس-الكاليسيوم",
+    "image":"https://watchandlearn.scholastic.com/content/dam/classroom-magazines/watchandlearn/videos/animals-and-plants/plants/what-are-plants-/What-Are-Plants.jpg",
+}
+
+{
+    "id":2,
+    "cat_id":1,
+    "name":"الطماطم",
+    "about":"how to plante",
+    "benifits":"محاربة السرطان، السيطرة على مرض السكرى، تعزيز صحة القلب، خسارة الوزن، علامات التجاعيد وعلامات الشيخوخة، تقديم فوائد للحمل، تحسين النظر، صحة الشعر، حماية الكلى، التخفيف من التهابات المفاصل ",
+    "vits":"فيتامين أ، فيتامين ج، فيتامين هـ، فيتامين ك، بروتين كربوهيدرات، البوتاسيوم، الفسفور، المغنيسيوم، الصوديوم",
+    "image":"https://watchandlearn.scholastic.com/content/dam/classroom-magazines/watchandlearn/videos/animals-and-plants/plants/what-are-plants-/What-Are-Plants.jpg",
+}
+{
+    "id":2,
+    "cat_id":1,
+    "name":"البطاطا الحلوة",
+    "about":"how to plante",
+    "benifits":"",
+    "vits":"",
+    "image":"https://watchandlearn.scholastic.com/content/dam/classroom-magazines/watchandlearn/videos/animals-and-plants/plants/what-are-plants-/What-Are-Plants.jpg",
+}
+{
+    "id":2,
+    "cat_id":1,
+    "name":"الخيار",
+    "about":"how to plante",
+    "benifits":"",
+    "vits":"",
+    "image":"https://watchandlearn.scholastic.com/content/dam/classroom-magazines/watchandlearn/videos/animals-and-plants/plants/what-are-plants-/What-Are-Plants.jpg",
+}
